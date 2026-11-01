@@ -1,40 +1,40 @@
 [
   {
-    groupName: "Foundations"
-    apps: [
+    "groupName": "Foundations",
+    "apps": [
       {
-        repository: "dgg-science-foundations",
-        label: "Science Foundations",
-        description: "Core biology and foundational scientific insights for understanding, interpreting, and developing genetic tests",
-        public: false
+        "repository": "dgg-science-foundations",
+        "label": "Science Foundations",
+        "description": "Core biology and foundational scientific insights for understanding, interpreting, and developing genetic tests",
+        "public": false
       },
       {
-        repository: "dgg-technologies",
-        label: "Molecular Technologies",
-        description: "Technical descriptions of various platforms and assays used to measure genetic analytes in the clinical laboratory",
-        public: false
+        "repository": "dgg-technologies",
+        "label": "Molecular Technologies",
+        "description": "Technical descriptions of various platforms and assays used to measure genetic analytes in the clinical laboratory",
+        "public": false
       }
     ]
   },
   {
-    groupName: "Clinical Areas"
-    apps: [
+    "groupName": "Clinical Areas",
+    "apps": [
       {
-        repository: "dgg-hematopathology",
-        label: "Molecular Hematopathology",
-        description: "Molecular findings, testing, and applications in blood-derived cancers",
-        public: false
+        "repository": "dgg-hematopathology",
+        "label": "Molecular Hematopathology",
+        "description": "Molecular findings, testing, and applications in blood-derived cancers",
+        "public": false
       }
     ]
   },
   {
-    groupName: "Administration"
-    apps: [
+    "groupName": "Administration",
+    "apps": [
       {
-        repository: "dgg-lab-administration",
-        label: "Lab Administration",
-        description: "Information about regulatory bodies, insurance payments, and other information required to run a molecular lab",
-        public: false
+        "repository": "dgg-lab-administration",
+        "label": "Lab Administration",
+        "description": "Information about regulatory bodies, insurance payments, and other information required to run a molecular lab",
+        "public": false
       }
     ]
   }
